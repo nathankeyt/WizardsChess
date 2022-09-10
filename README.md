@@ -1,0 +1,2 @@
+# WizardsChess
+Wizard's Chess
